@@ -70,8 +70,6 @@ Reproducible enrichment across independent experiments and concentration-depende
 
 University of Dundee, UK.
 
-## Citation
+If you use these scripts in published research, please cite:
 
-If these scripts are used in published research, please cite the associated software release.
-
-**Zenodo DOI:** To be added following deposition.
+Brouck, L., & Wyllie, S. (2026). *Chemical Pulldown Proteomics Analysis Using R* (Version v1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24286730
